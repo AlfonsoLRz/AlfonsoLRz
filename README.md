@@ -1,8 +1,10 @@
 # Alfonso López Ruiz
 
+[![Jason Lengstorf has a lot of ideas.](Assets/Introduction/Introduction.png)](https://www.jason.af)
+
 - I'm a 22yo developer from Spain. :octocat:
 
-- Predoctoral Fellow in the University of Jaén (group of Computer Graphics). :school:
+- Predoctoral Fellow in the University of Jaén (group of Computer Graphics). :mortar_board:
 
 - BSC Computer Science (9.29). MSc Computer Science (in progress). :page_with_curl:
 
@@ -21,9 +23,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=iOS_SearchBar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How can you reach me out? :earth_americas:
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz)
+[<img src='Assets/Media/Github.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz)
 &nbsp;&nbsp;
-[<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+[<img src='Assets/Media/Linkedin.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg' alt='linkedin' height='40'>](mailto:allopezr@ujaen.es)
+[<img src='Assets/Media/Uja.png' alt='University of Jaén' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='Assets/Media/Gmail.svg' alt='Gmail' height='40'>](mailto:allopezr@ujaen.es)
 > :mailbox: allopezr@ujaen.es, alfonsolrz97@gmail.com
