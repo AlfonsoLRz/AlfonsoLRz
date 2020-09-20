@@ -1,16 +1,25 @@
-### Hi there 👋
+# Alfonso López Ruiz
 
-<!--
-**AlfonsoLRz/AlfonsoLRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Alfonso. I'm a 22yo developer from Spain. :octocat:
 
-Here are some ideas to get you started:
+- Predoctoral Fellow in the University of Jaén (group of Computer Graphics). :school:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BSC Computer Science (9.29). MSc Computer Science (in progress). :page_with_curl:
+
+- Mostly interested in GPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation or Image processing algorithms. :computer:
+
+> Most of my work is on C++ as it is one of the main programming languages which are used for Computer Graphics applications.
+
+### Statistics of my public projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=70,27364d,F23860&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff)
+
+### Some of my main public projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=Quiz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=iOS_SearchBar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+#### How can you reach me out?
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='50' color='white'>](https://github.com/AlfonsoLRz) &nbsp;&nbsp; [<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+> If none of them are of your interest, email me at allopezr@ujaen.es :mailbox:
