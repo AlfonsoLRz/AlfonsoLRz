@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 [<img src='Assets/Media/Linkedin.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='Assets/Media/Uja.png' alt='University of Jaén' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+[<img src='Assets/Media/Uja.png' alt='University of Jaén' height='30'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='Assets/Media/Gmail.svg' alt='Gmail' height='40'>](mailto:allopezr@ujaen.es)
-> :mailbox: allopezr@ujaen.es, alfonsolrz97@gmail.com
+> :mailbox: Email me at allopezr@ujaen.es or alfonsolrz97@gmail.com
