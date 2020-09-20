@@ -1,6 +1,6 @@
 # Alfonso López Ruiz
 
-- My name is Alfonso. I'm a 22yo developer from Spain. :octocat:
+- I'm a 22yo developer from Spain. :octocat:
 
 - Predoctoral Fellow in the University of Jaén (group of Computer Graphics). :school:
 
@@ -20,6 +20,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=iOS_SearchBar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### How can you reach me out?
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='50' color='white'>](https://github.com/AlfonsoLRz) &nbsp;&nbsp; [<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+### How can you reach me out? :earth_americas:
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz) &nbsp;&nbsp; [<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 > If none of them are of your interest, email me at allopezr@ujaen.es :mailbox:
