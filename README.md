@@ -20,7 +20,7 @@
 ### Some of my main public projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=Quiz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=iOS_SearchBar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=SensorLaboratory.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How can you reach me out? :earth_americas:
 [<img src='Assets/Media/Github.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz)
