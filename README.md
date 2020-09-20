@@ -21,5 +21,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=iOS_SearchBar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How can you reach me out? :earth_americas:
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz) &nbsp;&nbsp; [<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz)
+&nbsp;&nbsp;
+[<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg' alt='linkedin' height='40'>](mailto:allopezr@ujaen.es)
 > If none of them are of your interest, email me at allopezr@ujaen.es :mailbox:
