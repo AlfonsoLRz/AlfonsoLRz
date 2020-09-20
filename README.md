@@ -26,4 +26,4 @@
 [<img src='https://www.flaticon.es/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg' alt='linkedin' height='40'>](mailto:allopezr@ujaen.es)
-> If none of them are of your interest, email me at allopezr@ujaen.es :mailbox:
+> :mailbox: allopezr@ujaen.es, alfonsolrz97@gmail.com
