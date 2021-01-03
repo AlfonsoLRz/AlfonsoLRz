@@ -2,15 +2,13 @@
 
 [![Alfonso López Ruiz](Assets/Introduction/Introduction.png)](https://alfonsolrz.github.io)
 
-- I'm a 22yo developer from Spain. :octocat:
+- I'm a 23yo developer from Spain. :octocat:
 
-- Predoctoral Fellow in the University of Jaén (group of Computer Graphics). :mortar_board:
+- Predoctoral Fellow at the University of Jaén (Graphics and Geomatics group). :mortar_board:
 
-- BSC Computer Science (9.29). MSc Computer Science (in progress). :page_with_curl:
+- BSc Computer Science (9.29). MSc Computer Science (9.88). :page_with_curl:
 
 - Mostly interested in GPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation or Image processing algorithms. :computer:
-
-> Most of my work is on C++ as it is one of the main programming languages which are used for Computer Graphics applications.
 
 ### Statistics of my public projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=70,27364d,F23860&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,11 +21,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How can you reach me out? :earth_americas:
-[<img src='Assets/Media/Github.png' alt='Github' height='40' color='white'>](https://github.com/AlfonsoLRz)
-&nbsp;&nbsp;
+[<img src='Assets/Media/GGGJ.svg' alt='GGGJ' height='40'>](https://gggj.ujaen.es/allopezr)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='Assets/Media/Linkedin.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='Assets/Media/Uja.png' alt='University of Jaén' height='30'>](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='Assets/Media/Gmail.svg' alt='Gmail' height='40'>](mailto:allopezr@ujaen.es)
-> :mailbox: Email me at allopezr@ujaen.es or alfonsolrz97@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='Assets/Media/Researchgate.svg' alt='GGGJ' height='40'>](https://www.researchgate.net/profile/Alfonso_Ruiz2)
