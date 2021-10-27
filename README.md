@@ -11,14 +11,13 @@
 - Mostly interested in GPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation or Image processing algorithms. :computer:
 
 ### Statistics of my public projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=70,27364d,F23860&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff)
+| <a href="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff" /></a> |
+| ------------- | ------------- |
 
 ### Some of my main public projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=Quiz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=BRDFMeasurements&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=BRDFMeasurements&theme=dracula" /></a>
+| ------------- | ------------- |
+| <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=RGBThermalFusion&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=RGBThermalFusion&theme=dracula" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula" /></a>
 
 ### How can you reach me out? :earth_americas:
 [<img src='Assets/Media/GGGJ.svg' alt='GGGJ' height='40'>](https://gggj.ujaen.es/allopezr)
