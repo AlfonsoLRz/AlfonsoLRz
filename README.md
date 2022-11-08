@@ -15,7 +15,7 @@
 | ------------- | ------------- |
 
 ### Some of my main public projects
-| <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=BRDFMeasurements&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=BRDFMeasurements&theme=dracula" /></a>
+| <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=dracula" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=TIFF2JPEG&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=TIFF2JPEG&theme=dracula" /></a>
 | ------------- | ------------- |
 | <a href="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=RGBThermalFusion&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=RGBThermalFusion&theme=dracula" alt="Alfonso's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=dracula" /></a>
 
