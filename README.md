@@ -1,6 +1,6 @@
 # Alfonso López Ruiz
 
-[![Alfonso López Ruiz](Assets/Introduction/Introduction.png)](https://alfonsolrz.github.io)
+#### [![Alfonso López Ruiz](Assets/Introduction/Introduction.png)](https://alfonsolrz.github.io)
 
 - I'm a 24yo developer from Spain. :octocat:
 
