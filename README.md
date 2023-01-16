@@ -12,7 +12,7 @@
 
 ## Stats of public projects
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=70,F23860,27364d&title_color=fff&text_color=fff" alt="Alfonso's Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&layout=compact,bg_color=70,F23860,27364d&title_color=fff&text_color=fff" alt="Alfonso's Github stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&theme=nord" alt="Alfonso's Github stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&layout=compact&theme=nord"/> |
 | ------------- | ------------- |
 
 ### Some public projects
