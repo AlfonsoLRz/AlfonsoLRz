@@ -45,12 +45,20 @@
 
 ## Work experience
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="Assets/media/uja.png"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Predoctoral Fellow & Assistant professor** \
-[**Spanish Ministry of Science, Innovation and Universities**](https://nubank.com.br/) • Contract \
-Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`. \
+[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
+Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+
+**Collaboration with Computer Science Department** \
+[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Grant \
+Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
+<br/>
+
 <br/>
 
 ## Public projects
