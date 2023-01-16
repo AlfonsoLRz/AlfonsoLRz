@@ -59,8 +59,6 @@ Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`.
 Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 <br/>
 
-<br/>
-
 ## Public projects
 
 <table style="width:100%">
