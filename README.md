@@ -13,17 +13,14 @@
 [![Windows](https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FA7343?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-1575F9?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![iOS](https://img.shields.io/badge/iOS-yellow?style=for-the-badge&logo=ios&logoColor=white&labelColor=101010)]()
 </br>
-[![OpenGL](https://img.shields.io/badge/OpenGL-999999?style=for-the-badge&logo=OpenGL&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-FA7343?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C_Sharp-orange?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-1575F9?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-green?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
+[![Spark](https://img.shields.io/badge/Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Vulkan](https://img.shields.io/badge/Vulkan-999999?style=for-the-badge&logo=vulkan&logoColor=white&labelColor=101010)]()
 </br>
 [![Keras](https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-pink?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
@@ -31,8 +28,9 @@
 [![Numpy](https://img.shields.io/badge/Numpy-0095D5?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![SciPy](https://img.shields.io/badge/SciPy-olive?style=for-the-badge&logo=scipy&logoColor=white&labelColor=101010)]()
 </br>
+[![OpenGL](https://img.shields.io/badge/OpenGL-999999?style=for-the-badge&logo=OpenGL&logoColor=white&labelColor=101010)]()
+[![Vulkan](https://img.shields.io/badge/Vulkan-999999?style=for-the-badge&logo=vulkan&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/Unity-3DDC84?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-grey?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Qt](https://img.shields.io/badge/Qt-yellow?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010)]()
 </br>
 [![jQuery](https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
