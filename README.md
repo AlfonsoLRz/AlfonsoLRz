@@ -1,4 +1,4 @@
-# Alfonso López Ruiz :wave:
+# Hi, I'm Alfonso López Ruiz :wave:
 
 - I'm a 25yo developer from Spain. :octocat:
 
