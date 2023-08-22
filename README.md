@@ -10,8 +10,9 @@
 
 - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
 
-## Contact :mailbox:
+## Connect with me :mailbox:
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/gmail.svg" />
 
 | [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email_personal-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 | ---------- | ---------- |
@@ -77,17 +78,6 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" height=200>
 <img style="float: right; align: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" width="50%" height=200>
-
-<table style="width:100%">
-<tr>
-    <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alfonso's Github stats" height=200/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" height=200/>
-    </td>
-</tr>
-</table>
 
 <!-- ### Pinned repositories
 
