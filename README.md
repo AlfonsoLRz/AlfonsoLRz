@@ -1,16 +1,25 @@
 # Hi, I'm Alfonso López Ruiz :wave:
 
-<p style="float:left; width=50%">
+<table>
+    <tr>
+        <td style="width: 40%">
+            <p>
 
 - I'm a 25yo developer from Spain :octocat:
-
+        
 - Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) :mortar_board:
 
-- BSc Computer Science (9.29) & MSc Computer Science (9.88) :page_with_curl:
+- BSc Computer Science & MSc Computer Science :page_with_curl:
 
 - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
-</p>
-<img style="float:right;" src="assets/introduction/programming.png" width="30%">
+            </p>
+        </td>
+        <td>
+        </td>
+    </tr>
+</table>
+<p style="float:left; width=50%">
+</p> | <img style="float:right;" src="assets/introduction/programming.png" width="30%">
 
 ## Connect with me :mailbox:
 
@@ -76,8 +85,14 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 
 ## Public projects
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" height=200>
-<img style="float: right; align: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" width="50%" height=200>
+<table>
+    <tr>
+        <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" height=200>
+    </tr>
+    <tr>
+        <img style="float: right; align: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" width="50%" height=200>
+    </tr>
+</table>
 
 <!-- ### Pinned repositories
 
