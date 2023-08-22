@@ -61,21 +61,21 @@
 
 ## Work experience
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Postdoctoral Fellow & Assistant professor** \
 [**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Predoctoral Fellow & Assistant professor** \
 [**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Collaboration with Computer Science Department** \
 [**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Grant \
@@ -86,10 +86,12 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 
 <table>
     <tr>
-        <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" height=200>
-    </tr>
-    <tr>
-        <img style="float: right; align: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" width="50%" height=200>
+        <td style="width:50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height=200>
+        </td>
+        <td  style="width:50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" height=195>
+        </td>
     </tr>
 </table>
 
