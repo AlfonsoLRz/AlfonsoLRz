@@ -5,13 +5,13 @@
         <td style="width:50%">
             <p>
 
-- I'm a 25yo developer from Spain :octocat:
+- :octocat: I'm a 25yo developer from Spain 
         
-- Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) :mortar_board:
+- :mortar_board: Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
 
-- BSc Computer Science & MSc Computer Science :page_with_curl:
+- :page_with_curl: BSc Computer Science & MSc Computer Science 
 
-- Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
+- :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms 
             </p>
         </td>
         <td style="width:40%">
@@ -23,7 +23,7 @@
 ## Connect with me :mailbox:
 
 [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
-
+</br>
 [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
 
 ## Skills
