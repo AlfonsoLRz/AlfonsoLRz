@@ -1,6 +1,5 @@
 # Hi, I'm Alfonso López Ruiz :wave:
 
-<img style="float: right;" src="assets/introduction/programming.png" width="30%">
 <p style="float:left; width=50%">
 
 - I'm a 25yo developer from Spain :octocat:
@@ -11,6 +10,7 @@
 
 - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
 </p>
+<img style="float:right;" src="assets/introduction/programming.png" width="30%">
 
 ## Connect with me :mailbox:
 
