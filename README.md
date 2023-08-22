@@ -1,12 +1,21 @@
 # Hi, I'm Alfonso López Ruiz :wave:
 
-- I'm a 25yo developer from Spain. :octocat:
+<img style="float: right;" src="assets/introduction/programming.png" width="40%">
 
-- Predoctoral Fellow and Assistant Professor at the University of Jaén (Computer Graphics and Geomatics group). :mortar_board:
+- I'm a 25yo developer from Spain :octocat:
 
-- BSc Computer Science (9.29) & MSc Computer Science (9.88). :page_with_curl:
+- Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) :mortar_board:
 
-- Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms. :computer:
+- BSc Computer Science (9.29) & MSc Computer Science (9.88) :page_with_curl:
+
+- Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
+
+## Contact :mailbox:
+
+
+| [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email_personal-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+| ---------- | ---------- |
+| [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResarchGATE-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) | [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
 
 ## Skills
 
@@ -43,14 +52,21 @@
 
 ## Work experience
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
+
+**Postdoctoral Fellow & Assistant professor** \
+[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
+Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
 
 **Predoctoral Fellow & Assistant professor** \
 [**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/uja.png"/>](https://ujaen.es)
 
 **Collaboration with Computer Science Department** \
 [**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Grant \
@@ -59,18 +75,21 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 
 ## Public projects
 
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="50%" height=200>
+<img style="float: right; align: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" width="50%" height=200>
+
 <table style="width:100%">
 <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&theme=nord" alt="Alfonso's Github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alfonso's Github stats" height=200/>
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&layout=compact&theme=nord"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" height=200/>
     </td>
 </tr>
 </table>
 
-### Pinned repositories
+<!-- ### Pinned repositories
 
 <table style="width:100%">
 <tr>
@@ -97,13 +116,7 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
         <a href="https://github.com/SensorLaboratory/SensorLaboratory.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=nord" alt="Sensor laboratory"/></a>
     </td>
 </tr>
-</table>
-
-## Contact :mailbox:
-
-| [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email_personal-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
-| ---------- | ---------- |
-| [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResarchGATE-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) | [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
+</table> -->
 
 
 
