@@ -7,7 +7,7 @@
 
 - :octocat: I'm a 25yo developer from Spain 
         
-- :mortar_board: Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
+- :mortar_board: Postdoctoral fellow and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
 
 - :page_with_curl: BSc Computer Science, MSc Computer Science & PhD Computer Science 
 
