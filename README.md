@@ -1,8 +1,8 @@
 # Hi, I'm Alfonso López Ruiz :wave:
 
-<table>
+<table style="border:none!important;">
     <tr>
-        <td style="width: 50%">
+        <td style="width:50%">
             <p>
 
 - I'm a 25yo developer from Spain :octocat:
@@ -14,7 +14,7 @@
 - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
             </p>
         </td>
-        <td style="width: 40%">
+        <td style="width:40%">
             <img src="assets/introduction/programming.png"> 
         </td>
     </tr>
