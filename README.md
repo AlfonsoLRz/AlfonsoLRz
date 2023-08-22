@@ -1,4 +1,4 @@
-# Hi, I'm Alfonso López Ruiz :wave:
+# Hi, I'm Alfonso :wave:
 
 <table style="border:none!important;">
     <tr>
@@ -22,9 +22,9 @@
 
 ## Connect with me :mailbox:
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/gmail.svg" />
+[![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
 
-[![Email](https://img.shields.io/badge/allopezr@ujaen.es-email_personal-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/) [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResarchGATE-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
+[![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
 
 ## Skills
 
@@ -37,10 +37,11 @@
 [![Python](https://img.shields.io/badge/Python-1575F9?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-green?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Spark](https://img.shields.io/badge/Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
 [![Keras](https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-pink?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
 [![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-007396?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-0095D5?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
@@ -87,10 +88,10 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 <table>
     <tr>
         <td style="width:50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height=200>
+            <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" height=200>
         </td>
         <td  style="width:50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut&rank_icon=github" height=195>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoLRz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut" height=200>
         </td>
     </tr>
 </table>
