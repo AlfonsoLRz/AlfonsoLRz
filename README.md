@@ -9,7 +9,7 @@
         
 - :mortar_board: Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
 
-- :page_with_curl: BSc Computer Science & MSc Computer Science 
+- :page_with_curl: BSc Computer Science, MSc Computer Science & PhD Computer Science 
 
 - :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms 
             </p>
