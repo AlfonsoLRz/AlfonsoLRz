@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td style="width: 40%">
+        <td style="width: 50%">
             <p>
 
 - I'm a 25yo developer from Spain :octocat:
@@ -14,12 +14,11 @@
 - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
             </p>
         </td>
-        <td>
+        <td style="width: 40%">
+            <img src="assets/introduction/programming.png"> 
         </td>
     </tr>
 </table>
-<p style="float:left; width=50%">
-</p> | <img style="float:right;" src="assets/introduction/programming.png" width="30%">
 
 ## Connect with me :mailbox:
 
