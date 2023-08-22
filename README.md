@@ -1,15 +1,15 @@
 # Hi, I'm Alfonso López Ruiz :wave:
 
 <img style="float: right;" src="assets/introduction/programming.png" width="30%">
-<p style="float:left">
+<p style="float:left; width=50%">
 
-    - I'm a 25yo developer from Spain :octocat:
+- I'm a 25yo developer from Spain :octocat:
 
-    - Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) :mortar_board:
+- Post-doc researcher and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) :mortar_board:
 
-    - BSc Computer Science (9.29) & MSc Computer Science (9.88) :page_with_curl:
+- BSc Computer Science (9.29) & MSc Computer Science (9.88) :page_with_curl:
 
-    - Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
+- Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms :computer:
 </p>
 
 ## Connect with me :mailbox:
