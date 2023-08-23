@@ -22,9 +22,9 @@
 
 ## :mailbox: Connect with me
 
-| [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/) |
+|[![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/) |
 | --- | --- |
-| [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) | [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&labelColor=101010)](mailto:allopezr@ujaen.es) |
+|[![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) | [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&labelColor=101010)](mailto:allopezr@ujaen.es) |
 
 ## :wrench: Technologies
 
