@@ -9,7 +9,7 @@
         
 - :mortar_board: Postdoctoral fellow and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
 
-- :page_with_curl: BSc Computer Science, MSc Computer Science & PhD Computer Science 
+- :mortar_board: BSc Computer Science, MSc Computer Science & PhD Computer Science 
 
 - :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms 
             </p>
@@ -20,70 +20,70 @@
     </tr>
 </table>
 
-## Connect with me :mailbox:
+## :mailbox: Connect with me
 
-[![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es) [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
-</br>
-[![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=101010)](mailto:allopezr@ujaen.es)
+| [![Email](https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:allopezr@ujaen.es) | [![Linkedin](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/) |
+| --- | --- |
+| [![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2) | [![ORCID](https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&labelColor=101010)](mailto:allopezr@ujaen.es) |
 
-## Skills
+## :wrench: Technologies
 
-[![Windows](https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-FA7343?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-[![Android](https://img.shields.io/badge/Android-1575F9?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/Windows-999999?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FA7343?style=for-the-badge&logo=linux&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-1575F9?style=for-the-badge&logo=android&logoColor=white)]()
 </br>
-[![C++](https://img.shields.io/badge/C++-FA7343?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C_Sharp-orange?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-1575F9?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-green?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Spark](https://img.shields.io/badge/Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-FA7343?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C_Sharp-orange?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-1575F9?style=for-the-badge&logo=csharp&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-green?style=for-the-badge&logo=swift&logoColor=white)]()
+[![Spark](https://img.shields.io/badge/Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
 </br>
-[![Keras](https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
-[![Pandas](https://img.shields.io/badge/Pandas-pink?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-007396?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
-[![Numpy](https://img.shields.io/badge/Numpy-0095D5?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
-[![SciPy](https://img.shields.io/badge/SciPy-olive?style=for-the-badge&logo=scipy&logoColor=white&labelColor=101010)]()
+[![Keras](https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-pink?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-007396?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+[![Numpy](https://img.shields.io/badge/Numpy-0095D5?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![SciPy](https://img.shields.io/badge/SciPy-olive?style=for-the-badge&logo=scipy&logoColor=white)]()
 </br>
-[![OpenGL](https://img.shields.io/badge/OpenGL-999999?style=for-the-badge&logo=OpenGL&logoColor=white&labelColor=101010)]()
-[![Vulkan](https://img.shields.io/badge/Vulkan-999999?style=for-the-badge&logo=vulkan&logoColor=white&labelColor=101010)]()
-[![Unity](https://img.shields.io/badge/Unity-3DDC84?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Qt](https://img.shields.io/badge/Qt-yellow?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010)]()
+[![OpenGL](https://img.shields.io/badge/OpenGL-999999?style=for-the-badge&logo=OpenGL&logoColor=white)]()
+[![Vulkan](https://img.shields.io/badge/Vulkan-purple?style=for-the-badge&logo=vulkan&logoColor=white)]()
+[![Unity](https://img.shields.io/badge/Unity-3DDC84?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Qt](https://img.shields.io/badge/Qt-yellow?style=for-the-badge&logo=qt&logoColor=white)]()
 </br>
-[![jQuery](https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-FFCA28?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-47A248?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=101010)]()
+[![jQuery](https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-FFCA28?style=for-the-badge&logo=php&logoColor=white)]()
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-47A248?style=for-the-badge&logo=codeigniter&logoColor=white)]()
 </br>
 
-## Work experience
+## :book: Work experience
 
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
-**Postdoctoral Fellow & Assistant professor** \
-[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
+**Postdoctoral Fellow & Assistant professor (FPU)** \
+Spanish Ministry of Science, Innovation and Universities • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
-**Predoctoral Fellow & Assistant professor** \
-[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Contract \
+**Predoctoral Fellow & Assistant professor (FPU)** \
+Spanish Ministry of Science, Innovation and Universities • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Collaboration with Computer Science Department** \
-[**Spanish Ministry of Science, Innovation and Universities**](https://ujaen.es) • Grant \
+Spanish Ministry of Science, Innovation and Universities • Grant \
 Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 <br/>
 
-## Public projects
+## :zap: Stats 
 
 <table>
     <tr>
