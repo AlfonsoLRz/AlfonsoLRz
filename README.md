@@ -5,11 +5,11 @@
         <td style="width:50%">
             <p>
 
-- :octocat: I'm a 25yo developer from Spain 
+- :octocat: I'm a 26yo developer from Spain 
         
 - :mortar_board: Postdoctoral fellow and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
 
-- :mortar_board: BSc Computer Science, MSc Computer Science & PhD Computer Science 
+- :mortar_board: PhD Computer Science 
 
 - :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms 
             </p>
