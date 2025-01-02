@@ -5,9 +5,9 @@
         <td style="width:50%">
             <p>
 
-- :octocat: I'm a 26yo developer from Spain 
+- :octocat: I'm a 27yo developer from Spain 
         
-- :mortar_board: Postdoctoral fellow and assistant professor at the University of Jaén (Computer Graphics and Geomatics group) 
+- :mortar_board: I am currently working @ University of Zaragoza. I got
 
 - :mortar_board: PhD Computer Science 
 
