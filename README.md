@@ -5,13 +5,13 @@
         <td style="width:50%">
             <p>
 
-- :octocat: I'm a 27yo developer from Spain 
+- :octocat: I am a 27yo developer from Spain.
         
-- :mortar_board: I am currently working @ University of Zaragoza. I got
+- :mortar_board: I am currently working @ University of Zaragoza as a researcher (Juan de la Cierva Postdoc Fellowship).
 
-- :mortar_board: PhD Computer Science 
+- :mortar_board: PhD in Computer Science (2023).  
 
-- :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms 
+- :computer: Mostly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms.  
             </p>
         </td>
         <td style="width:40%">
@@ -77,16 +77,23 @@
 
 ## :book: Work experience
 
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="https://pbs.twimg.com/profile_images/996655390745071617/RKsvhSIa_400x400.jpg"/>]([https://ujaen.es](https://nemostudio.nemotec.com/)
+
+**Computer Graphics Developer** \
+Nemotec • Contract \
+Languages & Technologies: `C++`, `VTK`, `Python`, `Qt`, `OpenCV`. \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
-**Postdoctoral Fellow & Assistant professor (FPU)** \
+**Postdoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
 
-**Predoctoral Fellow & Assistant professor (FPU)** \
+**Predoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities • Contract \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
