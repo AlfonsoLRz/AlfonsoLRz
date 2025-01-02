@@ -96,21 +96,21 @@ Nemotec Software\
 Languages & Technologies: `C++`, `VTK`, `Python`, `Qt`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/media/uja.png"/>](https://ujaen.es)
 
 **Postdoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/media/uja.png"/>](https://ujaen.es)
 
 **Predoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/media/uja.png"/>](https://ujaen.es)
 
 **Collaboration with Computer Science Department** \
 Spanish Ministry of Science, Innovation and Universities • Grant \
