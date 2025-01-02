@@ -56,6 +56,7 @@ Programming languages</br>
 [![Spark](https://img.shields.io/badge/Spark-purple?style=for-the-badge&logo=apachespark&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-FFCA28?style=for-the-badge&logo=php&logoColor=white)]()
 </br>
 Python packages</br>
 [![Keras](https://img.shields.io/badge/Keras-green?style=for-the-badge&logo=keras&logoColor=white)]()
@@ -76,34 +77,40 @@ Web and server frameworks/packages</br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-FFCA28?style=for-the-badge&logo=php&logoColor=white)]()
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-47A248?style=for-the-badge&logo=codeigniter&logoColor=white)]()
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-purple?style=for-the-badge&logo=codeigniter&logoColor=white)]()
 </br>
 
 ## :book: Work experience
 
-[<img align="left" height="94px" width="94px" alt="Nemotec" src="https://pbs.twimg.com/profile_images/996655390745071617/RKsvhSIa_400x400.jpg"/>](https://nemostudio.nemotec.com/)
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/unizar.png"/>](https://nemostudio.nemotec.com/)
+
+**Postdoctoral Fellow (Juan de la Cierva)** \
+Spanish Ministry of Science, Innovation and Universities\
+Languages & Technologies: `C++`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/nemotec.jpg"/>](https://nemostudio.nemotec.com/)
 
 **Computer Graphics Developer** \
 Nemotec Software\
 Languages & Technologies: `C++`, `VTK`, `Python`, `Qt`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Postdoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Predoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="Assets/Media/Uja.png"/>](https://ujaen.es)
+[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/Media/Uja.png"/>](https://ujaen.es)
 
 **Collaboration with Computer Science Department** \
 Spanish Ministry of Science, Innovation and Universities • Grant \
