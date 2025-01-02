@@ -89,7 +89,7 @@ Spanish Ministry of Science, Innovation and Universities\
 Languages & Technologies: `C++`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/nemotec.jpg"/>](https://nemostudio.nemotec.com/)
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/nemotec.png"/>](https://nemostudio.nemotec.com/)
 
 **Computer Graphics Developer** \
 Nemotec Software\
