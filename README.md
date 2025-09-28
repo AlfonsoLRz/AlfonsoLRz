@@ -118,5 +118,4 @@ Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`.
 
 ## 📊 3D GitHub Contributions
 
-<!-- Pick one of the generated SVGs -->
-![3D profile](https://raw.githubusercontent.com/AlfonsoLRz/AlfonsoLRz/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D profile (night rainbow)](./profile-3d-contrib/profile-gitblock.svg)
