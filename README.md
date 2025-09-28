@@ -2,19 +2,19 @@
 
 <table style="border:none!important;">
     <tr>
-        <td style="width:50%">
+        <td style="width:80%">
             <p>
-
+                
 - :octocat: I am a 27yo developer from Spain.
-        
-- :mortar_board: I am currently working @ University of Zaragoza as a postdoc researcher (Juan de la Cierva Postdoc Fellowship).
+       
+- :mortar_board: I am currently working @ University of Zaragoza as an assistant professor (before that, I was the recipient of a Juan de la Cierva Postdoc Fellowship).
 
-- :mortar_board: PhD in Computer Science (2023).  
+- :mortar_board: PhD in Computer Science (2023) <a href="https://orcid.org/0000-0003-1423-9496" title="ORCID"><img src="https://cdn.simpleicons.org/orcid" width="15" height="15" alt="ORCID"/></a>.
 
-- :computer: Mainly interested in GPGPU, Augmented/Virtual Reality, Particle systems, Geometric algorithms, Procedural generation and Image processing algorithms.  
+- :computer: Mainly interested in GPGPU, photorealistic rendering, geometric algorithms, procedural generation and image processing algorithms.
             </p>
         </td>
-        <td style="width:30%">
+        <td style="width:20%">
             <img src="assets/introduction/programming.png"> 
         </td>
     </tr>
@@ -22,25 +22,11 @@
 
 ## :mailbox: Connect with me
 
-<table style="border:none!important;">
-    <tr>
-        <td>
-            <a href="mailto:allopezr@ujaen.es"><img src="https://img.shields.io/badge/allopezr@ujaen.es-email-red?style=for-the-badge&logo=gmail&labelColor=101010"></a>
-        </td>
-        <td>
-            <a href="https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/"><img src="https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&labelColor=101010"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://orcid.org/0000-0003-1423-9496"><img src="https://img.shields.io/badge/0000_0003_1423_9496-ORCID-blue?style=for-the-badge&logo=ORCID&labelColor=101010"></a>
-        </td>
-        <td> 
-            <a href="https://www.researchgate.net/profile/Alfonso_Ruiz2"><img src="https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&labelColor=101010"></a>    
-        </td>
-    </tr>
-</table>
+[![Email](https://img.shields.io/badge/alfonso.lopezr@unizar.es-email-red?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:alfonso.lopezr@unizar.es)
+[![LinkedIn](https://img.shields.io/badge/Alfonso_López_Ruiz-LinkedIn-green?style=for-the-badge&logo=LinkedIn&labelColor=101010)](https://www.linkedin.com/in/alfonso-l%C3%B3pez-ruiz-7607331b7/)
+[![ResearchGate](https://img.shields.io/badge/Alfonso_López_Ruiz-ResearchGate-orange?style=for-the-badge&logo=ResearchGate&labelColor=101010)](https://www.researchgate.net/profile/Alfonso_Ruiz2)
 
+<!--
 ## :wrench: Technologies
 
 Operative systems</br>
@@ -78,15 +64,22 @@ Web and server frameworks/packages</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-purple?style=for-the-badge&logo=codeigniter&logoColor=white)]()
-</br>
+</br>-->
 
 ## :book: Work experience
 
-[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/unizar.png"/>](https://nemostudio.nemotec.com/)
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/unizar.png"/>](https://graphics.unizar.es/)
+
+**Assistant professor (Department of Computer Science & Engineering Systems)** \
+University of Zaragoza\
+Languages & Technologies: `C++`, `CUDA`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/unizar.png"/>](https://graphics.unizar.es/)
 
 **Postdoctoral Fellow (Juan de la Cierva)** \
 Spanish Ministry of Science, Innovation and Universities\
-Languages & Technologies: `C++`. \
+Languages & Technologies: `C++`, `CUDA`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nemotec" src="assets/media/nemotec.png"/>](https://nemostudio.nemotec.com/)
@@ -100,7 +93,7 @@ Languages & Technologies: `C++`, `VTK`, `Python`, `Qt`, `OpenCV`. \
 
 **Postdoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
-Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, `PyTorch`, `Vulkan`. \
+Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `CUDA`, `OpenCV`, `PyTorch`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/media/uja.png"/>](https://ujaen.es)
@@ -108,13 +101,6 @@ Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Cuda`, `OpenCV`, 
 **Predoctoral Fellow (FPU)** \
 Spanish Ministry of Science, Innovation and Universities \
 Languages & Technologies: `C++`, `OpenGL`, `Python`, `Keras`, `Unity`, `OpenCV`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="University of Jaén" src="assets/media/uja.png"/>](https://ujaen.es)
-
-**Collaboration with Computer Science Department** \
-Spanish Ministry of Science, Innovation and Universities • Grant \
-Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
 <br/>
 
 ## :zap: Stats 
@@ -130,34 +116,7 @@ Languages & Technologies: `C++`, `OpenGL`, `Qt`, `OpenCV`. \
     </tr>
 </table>
 
-<!-- ### Pinned repositories
+## 📊 3D GitHub Contributions
 
-<table style="width:100%">
-<tr>
-    <td>
-        <a href="https://github.com/AlfonsoLRz/AG2223"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=AG2223&theme=nord" alt="Algoritmos Geometricos" /></a>
-    </td>
-    <td>
-        <a href="https://github.com/AlfonsoLRz/ScopusPlot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=ScopusPlot&theme=nord" alt="ScopusPlot"/></a>
-    </td>
-</tr>
-<tr>
-    <td>
-        <a href="https://github.com/AlfonsoLRz/PointCloudRendering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=PointCloudRendering&theme=nord" alt="Point Cloud Rendering" /></a>
-    </td>
-    <td>
-        <a href="https://github.com/AlfonsoLRz/TIFF2JPEG"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=TIFF2JPEG&theme=nord" alt="TIFF2JPEG"/></a>
-    </td>
-</tr>
-<tr>
-    <td>
-        <a href="https://github.com/AlfonsoLRz/brdf_viewer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlfonsoLRz&repo=brdf_viewer&theme=nord" alt="BRDF Viewer" /></a>
-    </td>
-    <td>
-        <a href="https://github.com/SensorLaboratory/SensorLaboratory.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SensorLaboratory&repo=SensorLaboratory.github.io&theme=nord" alt="Sensor laboratory"/></a>
-    </td>
-</tr>
-</table> -->
-
-
-
+<!-- Pick one of the generated SVGs -->
+![3D profile](https://raw.githubusercontent.com/AlfonsoLRz/AlfonsoLRz/main/profile-3d-contrib/profile-night-rainbow.svg)
