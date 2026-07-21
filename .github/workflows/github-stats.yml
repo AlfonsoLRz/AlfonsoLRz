@@ -1,0 +1,46 @@
+name: GitHub-Readme-Stats
+
+on:
+  schedule: # 02:30 UTC (staggered from profile-3d.yml at 18:00 UTC)
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-readme-stats
+    steps:
+      - uses: actions/checkout@v5
+
+      # Overall stats card — reproduces the previous github-readme-stats look,
+      # but rendered inside CI and committed to the repo (no external rate limits).
+      # GITHUB_TOKEN is enough for public stats; swap in a classic PAT secret if
+      # you also want private/total contribution counts.
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github
+          path: github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Top languages card — same warm gradient and donut layout as before.
+      - name: Generate top-languages card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut
+          path: github-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi

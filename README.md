@@ -134,13 +134,16 @@ Web and server frameworks/packages</br>
 
 ## :zap: Stats
 
-<div align="center">
-
-<img src="./metrics.svg" alt="Alfonso's GitHub metrics" width="480"/>
-
-<img src="./metrics-languages.svg" alt="Most used languages" width="480"/>
-
-</div>
+<table>
+    <tr>
+        <td width="50%" align="center">
+            <img src="./github-stats.svg" alt="Alfonso's GitHub stats" height="200"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="./github-top-langs.svg" alt="Most used languages" height="200"/>
+        </td>
+    </tr>
+</table>
 
 ---
 
