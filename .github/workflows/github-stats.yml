@@ -36,6 +36,23 @@ jobs:
           path: github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # The donut top-langs card has no bottom-padding option, so add a little by
+      # extending the SVG canvas height. The card background is height="99%", so the
+      # gradient stretches to fill the added space while the content stays top-anchored.
+      - name: Add bottom padding to languages card
+        run: |
+          PAD=24
+          f=github-top-langs.svg
+          H=$(grep -oiE 'viewBox="0 0 [0-9]+ [0-9]+"' "$f" | head -1 | grep -oE '[0-9]+' | tail -1)
+          if [ -n "$H" ]; then
+            NH=$((H + PAD))
+            sed -i -E "s/(viewBox=\"0 0 [0-9]+ )$H(\")/\1$NH\2/" "$f"
+            sed -i -E "s/(height=\")$H(\")/\1$NH\2/" "$f"
+            echo "languages card height: $H -> $NH"
+          else
+            echo "could not determine languages card height; skipping bottom padding"
+          fi
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
