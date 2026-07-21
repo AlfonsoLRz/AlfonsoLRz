@@ -135,7 +135,7 @@ Web and server frameworks/packages</br>
 ## :zap: Stats
 
 <div align="center">
-    <img src="./github-stats-card.svg" alt="Alfonso López Ruiz's GitHub stats and most used languages" width="450"/>
+    <img src="./github-stats-card.svg" alt="Alfonso López Ruiz's GitHub stats and most used languages" width="740"/>
 </div>
 
 ---
