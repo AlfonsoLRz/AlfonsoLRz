@@ -15,8 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      # Overall stats card — reproduces the previous github-readme-stats look,
-      # but rendered inside CI and committed to the repo (no external rate limits).
+      # Two cards are rendered separately, then composed into one unified card
+      # (github-stats-card.svg) sharing a single gradient background and border.
+      # Rendered inside CI and committed to the repo (no external rate limits).
       # GITHUB_TOKEN is enough for public stats; swap in a classic PAT secret if
       # you also want private/total contribution counts.
       - name: Generate stats card
@@ -57,6 +58,13 @@ jobs:
           else
             echo "no language rows found; leaving card height unchanged"
           fi
+
+      # Merge both cards into one unified SVG, then drop the intermediates so the
+      # repo only carries the single combined card referenced by the README.
+      - name: Compose unified card
+        run: |
+          python3 .github/scripts/compose_card.py github-stats.svg github-top-langs.svg github-stats-card.svg
+          rm -f github-stats.svg github-top-langs.svg
 
       - name: Commit & Push
         run: |
