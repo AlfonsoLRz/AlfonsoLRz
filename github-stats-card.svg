@@ -1,7 +1,7 @@
 <svg
-  width="450"
-  height="456"
-  viewBox="0 0 450 456"
+  width="740"
+  height="275"
+  viewBox="0 0 740 275"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
@@ -13,8 +13,8 @@
       <stop offset="100%" stop-color="#904e95" />
     </linearGradient>
   </defs>
-  <rect x="0.5" y="0.5" rx="4.5" width="449" height="455" fill="url(#unified-card-bg)" stroke="#e4e2e2" stroke-opacity="1.0" />
-  <svg x="0" y="0" width="450" height="195" viewBox="0 0 450 195">
+  <rect x="0.5" y="0.5" rx="4.5" width="739" height="274" fill="url(#unified-card-bg)" stroke="#e4e2e2" stroke-opacity="1.0" />
+  <svg x="0" y="40" width="450" height="195" viewBox="0 0 450 195">
         <title id="titleId"></title>
         <desc id="descId"></desc>
         <style>
@@ -84,7 +84,7 @@
         stroke-dashoffset: 251.33;
       }
       to {
-        stroke-dashoffset: 137.92;
+        stroke-dashoffset: 138.11;
       }
     }
   
@@ -198,7 +198,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >219</text>
+      >216</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -238,7 +238,7 @@
   
         </g>
       </svg>
-  <svg x="75" y="171" width="300" height="285" viewBox="0 0 300 285">
+  <svg x="440" y="0" width="300" height="275" viewBox="0 0 300 275">
         <title id="titleId"></title>
         <desc id="descId"></desc>
         <style>
