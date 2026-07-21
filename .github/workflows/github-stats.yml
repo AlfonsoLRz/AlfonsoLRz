@@ -27,30 +27,35 @@ jobs:
           path: github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Top languages card — same warm gradient and donut layout as before.
+      # Top languages card — same warm gradient as before. NOTE: this action's
+      # renderer supports only the 'normal' and 'compact' layouts (no donut), so we
+      # use the default 'normal' bar layout; the next step fixes its card height.
       - name: Generate top-languages card
         uses: soulteary/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=donut
+          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
           path: github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # The donut top-langs card has no bottom-padding option, so add a little by
-      # extending the SVG canvas height. The card background is height="99%", so the
-      # gradient stretches to fill the added space while the content stays top-anchored.
-      - name: Add bottom padding to languages card
+      # The renderer sizes the bar card with a too-short height, clipping the last
+      # language row. Re-size the SVG canvas to fit every row plus bottom padding.
+      # The card background is height="99%", so the gradient stretches to fill.
+      - name: Fit languages card height (+ bottom padding)
         run: |
-          PAD=24
           f=github-top-langs.svg
-          H=$(grep -oiE 'viewBox="0 0 [0-9]+ [0-9]+"' "$f" | head -1 | grep -oE '[0-9]+' | tail -1)
-          if [ -n "$H" ]; then
-            NH=$((H + PAD))
-            sed -i -E "s/(viewBox=\"0 0 [0-9]+ )$H(\")/\1$NH\2/" "$f"
-            sed -i -E "s/(height=\")$H(\")/\1$NH\2/" "$f"
-            echo "languages card height: $H -> $NH"
+          rows=$(grep -oE 'data-testid="lang-progress"' "$f" | wc -l)
+          if [ "$rows" -ge 1 ]; then
+            # rows start at y=55 with a 40px pitch; last row ends ~38px below its top
+            content_bottom=$(( 55 + (rows - 1) * 40 + 38 ))
+            target=$(( content_bottom + 22 ))          # ~22px bottom padding
+            cur=$(grep -oiE 'viewBox="0 0 [0-9]+ [0-9]+"' "$f" | head -1 | grep -oE '[0-9]+' | tail -1)
+            [ "$target" -lt "$cur" ] && target=$cur    # only ever grow, never clip
+            sed -i -E "s/(viewBox=\"0 0 [0-9]+ )$cur(\")/\1$target\2/" "$f"
+            sed -i -E "s/(height=\")$cur(\")/\1$target\2/" "$f"
+            echo "languages card: rows=$rows, height $cur -> $target"
           else
-            echo "could not determine languages card height; skipping bottom padding"
+            echo "no language rows found; leaving card height unchanged"
           fi
 
       - name: Commit & Push
