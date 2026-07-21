@@ -23,7 +23,7 @@ GPGPU · Photorealistic Rendering · Geometric Algorithms · Procedural Generati
             <ul>
                 <li>:earth_africa: I am a 28yo developer from Spain.</li>
                 <li>:mortar_board: I currently work @ University of Zaragoza as an assistant professor (before that, I was the recipient of a Juan de la Cierva Postdoc Fellowship).</li>
-                <li>:page_facing_up: PhD in Computer Science (2023) — <a href="https://orcid.org/0000-0003-1423-9496" title="ORCID">ORCID 0000-0003-1423-9496</a>.</li>
+                <li>:page_facing_up: PhD in Computer Science (2023).</li>
                 <li>:computer: Mainly interested in GPGPU, photorealistic rendering, geometric algorithms, procedural generation and image processing algorithms.</li>
             </ul>
         </td>
