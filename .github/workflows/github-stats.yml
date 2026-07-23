@@ -18,15 +18,16 @@ jobs:
       # Two cards are rendered separately, then composed into one unified card
       # (github-stats-card.svg) sharing a single gradient background and border.
       # Rendered inside CI and committed to the repo (no external rate limits).
-      # GITHUB_TOKEN is enough for public stats; swap in a classic PAT secret if
-      # you also want private/total contribution counts.
+      # The stats query needs a PAT (secrets.STATS_TOKEN, classic PAT with no
+      # scopes for public stats, or 'repo'+'read:user' for private counts) —
+      # the default GITHUB_TOKEN gets "Resource not accessible by integration".
       - name: Generate stats card
         uses: soulteary/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github
           path: github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       # Top languages card — same warm gradient as before. NOTE: this action's
       # renderer supports only the 'normal' and 'compact' layouts (no donut), so we
@@ -37,7 +38,19 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
           path: github-top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      # Never commit an error card: the renderer writes a "Something went wrong"
+      # SVG on API failures instead of exiting non-zero, so detect it ourselves.
+      - name: Verify cards rendered
+        run: |
+          for f in github-stats.svg github-top-langs.svg; do
+            if grep -q "Something went wrong" "$f"; then
+              echo "::error::$f is an error card:"
+              grep -oE '<tspan[^>]*>[^<]+</tspan>' "$f" || true
+              exit 1
+            fi
+          done
 
       # The renderer sizes the bar card with a too-short height, clipping the last
       # language row. Re-size the SVG canvas to fit every row plus bottom padding.
