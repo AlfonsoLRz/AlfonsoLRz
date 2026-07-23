@@ -23,11 +23,19 @@ def read(path):
         return fh.read()
 
 
-def outer_dims(svg):
+def outer_dims(svg, path):
+    if "<svg" not in svg:
+        sys.exit(f"{path}: no <svg> element found; file starts with: {svg[:200]!r}")
     head = svg[: svg.index(">", svg.index("<svg")) + 1]
-    w = int(re.search(r'width="(\d+)"', head).group(1))
-    h = int(re.search(r'height="(\d+)"', head).group(1))
-    return w, h
+    w = re.search(r'width="(\d+(?:\.\d+)?)(?:px)?"', head)
+    h = re.search(r'height="(\d+(?:\.\d+)?)(?:px)?"', head)
+    if w and h:
+        return int(float(w.group(1))), int(float(h.group(1)))
+    # fall back to the viewBox when width/height are missing or percentages
+    vb = re.search(r'viewBox="[\d.\s-]*?([\d.]+)\s+([\d.]+)"', head)
+    if vb:
+        return int(float(vb.group(1))), int(float(vb.group(2)))
+    sys.exit(f"{path}: cannot determine dimensions from <svg> header: {head!r}")
 
 
 def inner_content(svg):
@@ -40,8 +48,8 @@ def inner_content(svg):
 
 
 stats, langs = read(STATS), read(LANGS)
-sw, sh = outer_dims(stats)
-lw, lh = outer_dims(langs)
+sw, sh = outer_dims(stats, STATS)
+lw, lh = outer_dims(langs, LANGS)
 
 W = sw + GAP + lw
 H = max(sh, lh)
