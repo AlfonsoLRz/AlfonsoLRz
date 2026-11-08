@@ -15,6 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      # Download once with retries: the action's downloader fails immediately on
+      # transient GitHub Release errors, and each card otherwise downloads the
+      # same 15 MB binary separately.
+      - name: Download stats renderer
+        run: |
+          curl --fail --location --silent --show-error \
+            --retry 5 --retry-all-errors --retry-delay 2 --retry-max-time 120 \
+            --output "$RUNNER_TEMP/github-readme-stats" \
+            https://github.com/soulteary/github-readme-stats/releases/download/v1.1.0/github-readme-stats-linux-amd64
+          chmod +x "$RUNNER_TEMP/github-readme-stats"
+
       # Two cards are rendered separately, then composed into one unified card
       # (github-stats-card.svg) sharing a single gradient background and border.
       # Rendered inside CI and committed to the repo (no external rate limits).
@@ -22,23 +33,32 @@ jobs:
       # scopes for public stats, or 'repo'+'read:user' for private counts) —
       # the default GITHUB_TOKEN gets "Resource not accessible by integration".
       - name: Generate stats card
-        uses: soulteary/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github
-          path: github-stats.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        env:
+          PAT_1: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          "$RUNNER_TEMP/github-readme-stats" \
+            --type=stats \
+            --username="$GITHUB_REPOSITORY_OWNER" \
+            --bg_color="30,e96443,904e95" \
+            --title_color=fff \
+            --text_color=fff \
+            --rank_icon=github \
+            --output=github-stats.svg
 
-      # Top languages card — same warm gradient as before. NOTE: this action's
-      # renderer supports only the 'normal' and 'compact' layouts (no donut), so we
-      # use the default 'normal' bar layout; the next step fixes its card height.
+      # Top languages card — same warm gradient as before. NOTE: the renderer
+      # supports only the 'normal' and 'compact' layouts (no donut), so we use
+      # the default 'normal' bar layout; the next step fixes its card height.
       - name: Generate top-languages card
-        uses: soulteary/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-          path: github-top-langs.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        env:
+          PAT_1: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          "$RUNNER_TEMP/github-readme-stats" \
+            --type=top-langs \
+            --username="$GITHUB_REPOSITORY_OWNER" \
+            --bg_color="30,e96443,904e95" \
+            --title_color=fff \
+            --text_color=fff \
+            --output=github-top-langs.svg
 
       # Never commit an error card: the renderer writes a "Something went wrong"
       # SVG on API failures instead of exiting non-zero, so detect it ourselves.
